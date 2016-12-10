@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_e4b4391361a1e6f7e6623c046bd329d990741119/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_59295d6edce7aff5c6560acf3092d2e228190fd7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_2b8fcb956468eb43c62fffa790b4da474e3fe267/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_32be5895035d98695f0c3b9baa937ae9ade48041/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_cc49f39e42f60a4c2691729b0c29704b47d85553/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_4fceb14b18cb65489c6d454f855bb1c469393955/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_2eb5d5f4f54a19e3e94238e58f0fbcbb5d5c9393/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_bc0869b4406f8937a03a738f6b4a5fe7950b1aec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_04066500a31aed8d8833df27b9378bb92fdcf06f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="125f5b97996d5c252aaeb57dad5d599218136825">
+        <dex dex="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0e1a1f1b2c164f4ce301ce6111226f962ae1620f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_3408e1ccaab4dfb880a8c90fceb6a2e89df15755/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_35b207a254e5a969d951a2265493d889e5c596e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_58d99a6edbf63a1508c8b3a714b91cdf8c19a7a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_95c36c47bb3ea3cdea26e0b2097a92f57ceae823/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ed399627b916e74f59532cc84db6b42d35f80235">
+        <dex dex="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_53e4b34da7e647e6a8f2772815af7865a3ece932/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_b658236f8693ecdece8681423bbab763d95b1655/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_3cf665df21a536f23f6725cab3e734b511014c13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/evankaplan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_e08cf8c7ebfeb14873b2b8d1bb65255e321bff7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_026dc974062ceeaf9bf187b6469d5852c5fd9a3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/evankaplan/Desktop/AndroidStudioProjects/Checkers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_de4359cc9bd97fd6b00c73ec5d9246d252e9cea5/classes.dex" />
+    </item>
+
+</items>

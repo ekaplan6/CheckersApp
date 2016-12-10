@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.android.checkers.MainActivity"
+    tools:showIn="@layout/activity_main">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/board"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/checkerBoard" />
+
+    <TextView
+        android:text="0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="36dp"
+        android:id="@+id/show" />
+
+    <ImageView
+        android:id="@+id/whitePiece1"
+        android:scaleX="1"
+        android:scaleY="1"
+        android:layout_marginBottom="79dp"
+        android:layout_height="36dp"
+        android:scaleType="fitCenter"
+        android:layout_width="36dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="2dp"
+        android:layout_marginStart="3dp"
+        app:srcCompat="@drawable/whitepiece" />
+
+    <ImageView
+        android:id="@+id/whitePiece2"
+        android:scaleX="1"
+        android:scaleY="1"
+        android:layout_marginBottom="79dp"
+        android:layout_height="36dp"
+        android:scaleType="fitCenter"
+        android:layout_width="36dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="3dp"
+        android:layout_marginStart="85dp"
+        app:srcCompat="@drawable/whitepiece" />
+
+    <ImageView
+        android:id="@+id/whitePiece3"
+        android:scaleX="1"
+        android:scaleY="1"
+        android:layout_marginBottom="79dp"
+        android:layout_height="36dp"
+        android:scaleType="fitCenter"
+        android:layout_width="36dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="3dp"
+        android:layout_marginStart="167dp"
+        app:srcCompat="@drawable/whitepiece" />
+
+    <ImageView
+        android:id="@+id/whitePiece4"
+        android:scaleX="1"
+        android:scaleY="1"
+        android:layout_marginBottom="79dp"
+        android:layout_height="36dp"
+        android:scaleType="fitCenter"
+        android:layout_width="36dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="3dp"
+        android:layout_marginStart="249dp"
+        app:srcCompat="@drawable/whitepiece" />
+
+    <ImageView
+        android:id="@+id/whitePiece5"
+        android:scaleX="1"
+        android:scaleY="1"
+        android:layout_marginBottom="120dp"
+        android:layout_height="36dp"
+        android:scaleType="fitCenter"
+        android:layout_width="36dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="3dp"
+        android:layout_marginStart="44dp"
+        app:srcCompat="@drawable/whitepiece" />
+
+    <ImageView
+        android:id="@+id/whitePiece6"
+        android:scaleX="1"
+        android:scaleY="1"
+        android:layout_marginBottom="120dp"
+        android:layout_height="36dp"
+        android:scaleType="fitCenter"
+        android:layout_width="36dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="3dp"
+        android:layout_marginStart="126dp"
+        app:srcCompat="@drawable/whitepiece" />
+
+    <ImageView
+        android:id="@+id/whitePiece7"
+        android:scaleX="1"
+        android:scaleY="1"
+        android:layout_marginBottom="120dp"
+        android:layout_height="36dp"
+        android:scaleType="fitCenter"
+        android:layout_width="36dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="3dp"
+        android:layout_marginStart="208dp"
+        app:srcCompat="@drawable/whitepiece" />
+
+    <ImageView
+        android:id="@+id/whitePiece8"
+        android:scaleX="1"
+        android:scaleY="1"
+        android:layout_marginBottom="120dp"
+        android:layout_height="36dp"
+        android:scaleType="fitCenter"
+        android:layout_width="36dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="3dp"
+        android:layout_marginStart="289dp"
+        app:srcCompat="@drawable/whitepiece" />
+
+    <ImageView
+        android:id="@+id/whitePiece9"
+        android:scaleX="1"
+        android:scaleY="1"
+        android:layout_marginBottom="161dp"
+        android:layout_height="36dp"
+        android:scaleType="fitCenter"
+        android:layout_width="36dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="2dp"
+        android:layout_marginStart="3dp"
+        app:srcCompat="@drawable/whitepiece" />
+
+    <ImageView
+        android:id="@+id/whitePiece10"
+        android:scaleX="1"
+        android:scaleY="1"
+        android:layout_marginBottom="161dp"
+        android:layout_height="36dp"
+        android:scaleType="fitCenter"
+        android:layout_width="36dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="3dp"
+        android:layout_marginStart="85dp"
+        app:srcCompat="@drawable/whitepiece" />
+
+    <ImageView
+        android:id="@+id/whitePiece11"
+        android:scaleX="1"
+        android:scaleY="1"
+        android:layout_marginBottom="161dp"
+        android:layout_height="36dp"
+        android:scaleType="fitCenter"
+        android:layout_width="36dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="3dp"
+        android:layout_marginStart="167dp"
+        app:srcCompat="@drawable/whitepiece" />
+
+    <ImageView
+        android:id="@+id/whitePiece12"
+        android:scaleX="1"
+        android:scaleY="1"
+        android:layout_marginBottom="161dp"
+        android:layout_height="36dp"
+        android:scaleType="fitCenter"
+        android:layout_width="36dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="3dp"
+        android:layout_marginStart="249dp"
+        app:srcCompat="@drawable/whitepiece" />
+
+
+
+</RelativeLayout>
